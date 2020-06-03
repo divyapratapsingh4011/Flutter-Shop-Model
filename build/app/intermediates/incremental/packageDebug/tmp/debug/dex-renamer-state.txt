@@ -1,0 +1,4 @@
+#Wed Jun 03 11:46:13 IST 2020
+base.0=D\:\\Android\\AndroidStudioProjects\\flutter\\Flutter-shop_model\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
